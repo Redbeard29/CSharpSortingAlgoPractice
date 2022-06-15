@@ -1,0 +1,15 @@
+/Users/benjaminsherman/Desktop/Documents/PersonalProjects/CSharp/SortingAlgoPractice/bin/Debug/net5.0/SortingAlgoPractice.deps.json
+/Users/benjaminsherman/Desktop/Documents/PersonalProjects/CSharp/SortingAlgoPractice/bin/Debug/net5.0/SortingAlgoPractice.runtimeconfig.json
+/Users/benjaminsherman/Desktop/Documents/PersonalProjects/CSharp/SortingAlgoPractice/bin/Debug/net5.0/SortingAlgoPractice.runtimeconfig.dev.json
+/Users/benjaminsherman/Desktop/Documents/PersonalProjects/CSharp/SortingAlgoPractice/bin/Debug/net5.0/SortingAlgoPractice.dll
+/Users/benjaminsherman/Desktop/Documents/PersonalProjects/CSharp/SortingAlgoPractice/bin/Debug/net5.0/ref/SortingAlgoPractice.dll
+/Users/benjaminsherman/Desktop/Documents/PersonalProjects/CSharp/SortingAlgoPractice/bin/Debug/net5.0/SortingAlgoPractice.pdb
+/Users/benjaminsherman/Desktop/Documents/PersonalProjects/CSharp/SortingAlgoPractice/obj/Debug/net5.0/SortingAlgoPractice.csproj.AssemblyReference.cache
+/Users/benjaminsherman/Desktop/Documents/PersonalProjects/CSharp/SortingAlgoPractice/obj/Debug/net5.0/SortingAlgoPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjaminsherman/Desktop/Documents/PersonalProjects/CSharp/SortingAlgoPractice/obj/Debug/net5.0/SortingAlgoPractice.AssemblyInfoInputs.cache
+/Users/benjaminsherman/Desktop/Documents/PersonalProjects/CSharp/SortingAlgoPractice/obj/Debug/net5.0/SortingAlgoPractice.AssemblyInfo.cs
+/Users/benjaminsherman/Desktop/Documents/PersonalProjects/CSharp/SortingAlgoPractice/obj/Debug/net5.0/SortingAlgoPractice.csproj.CoreCompileInputs.cache
+/Users/benjaminsherman/Desktop/Documents/PersonalProjects/CSharp/SortingAlgoPractice/obj/Debug/net5.0/SortingAlgoPractice.dll
+/Users/benjaminsherman/Desktop/Documents/PersonalProjects/CSharp/SortingAlgoPractice/obj/Debug/net5.0/ref/SortingAlgoPractice.dll
+/Users/benjaminsherman/Desktop/Documents/PersonalProjects/CSharp/SortingAlgoPractice/obj/Debug/net5.0/SortingAlgoPractice.pdb
+/Users/benjaminsherman/Desktop/Documents/PersonalProjects/CSharp/SortingAlgoPractice/obj/Debug/net5.0/SortingAlgoPractice.genruntimeconfig.cache
